@@ -1,0 +1,3 @@
+[DEMO LINK](https://jeniagaidukov.github.io/Pig_game_js/)
+Simple dice game, JS, HTML and CSS. Good luck have fun:)
+The aim of the game is to score 100 points by throwing a dice. Before the game all players throw a dice, the first one to start is the one with the lowest value. A move is a series of throws and consists of the following: a player throws the dice an unlimited number of times and sums up the values. However, if a one is rolled, the entire sum total of the move is canceled and the move goes to the next player. A player may end his turn at any time. All players are entitled to the same number of turns.
